@@ -48,7 +48,7 @@ différente des autres entrées :heavy_check_mark:
   - Un titre :heavy_check_mark:
   - La taille :heavy_check_mark:
   - Le prix :heavy_check_mark:
-- Critère d’acceptance #5 : Au clic sur une entrée de la liste, le détail est affiché (voir US#3) :heavy_check_mark
+- Critère d’acceptance #5 : Au clic sur une entrée de la liste, le détail est affiché (voir US#3) :heavy_check_mark:
 - Critère d’acceptance #6 : Cette liste de vêtements est récupérée de la base de données :heavy_check_mark:
 
 ## MVP : Détail d’un vêtement  
